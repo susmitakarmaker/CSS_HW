@@ -1,0 +1,25 @@
+h1 {
+    background-color: rgb(240, 100, 7);
+    color: rgb(197, 146, 5);
+    padding-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: rgb(240, 100, 7);
+    color: rgb(197, 146, 5);
+    padding-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hubby {
+    color: lightcoral;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: bold;
+}
