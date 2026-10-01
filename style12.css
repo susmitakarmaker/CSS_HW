@@ -1,0 +1,15 @@
+div {
+    border: 1px solid purple;
+    display: inline-block;
+    width: 190px;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
